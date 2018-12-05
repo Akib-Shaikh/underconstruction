@@ -1,0 +1,20 @@
+{
+  "name": "underconstruction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akib-Shaikh/underconstruction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akib-Shaikh/underconstruction/issues"
+  },
+  "homepage": "https://github.com/Akib-Shaikh/underconstruction#readme"
+}
